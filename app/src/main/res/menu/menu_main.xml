@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+
+    <item
+        android:id="@+id/refreshbutton"
+        android:title="Reset" />
+    <item
+        android:id="@+id/switch_theme"
+        android:title="Switch Theme" />
+    <item
+        android:id="@+id/infobutton"
+        android:title="Sound Ranges" />
+
+    <item
+        android:id="@+id/Rate_us"
+        android:title="Rate us" />
+
+    <item
+        android:id="@+id/Privacy_Policy"
+        android:title="Privacy Policy" />
+
+    <item
+        android:id="@+id/AppInfo"
+        android:title="App Info" />
+
+    <item
+        android:id="@+id/More_Apps"
+        android:title="More Apps" />
+
+
+</menu>

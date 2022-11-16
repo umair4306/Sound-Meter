@@ -1,32 +1,64 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "22.0.1"
+    compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.bodekjan.soundmeter"
-        minSdkVersion 16
-        targetSdkVersion 22
-        versionCode 4
-        versionName "1.3.1"
+        applicationId "com.digitalappsacademy.soundmeter.noisemeter.dbmeter.noisedetector.splmeter"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
     }
     buildTypes {
-        release {
+
+        debug {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+
     }
-    repositories {
-        maven { url "https://jitpack.io" }
-     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:22.0.0'
-//    compile 'com.github.glomadrian:velocimeterlibrary:1.0@aar'
-    compile 'com.github.PhilJay:MPAndroidChart:v3.0.0-beta1'
-    compile 'com.github.neopixl:PixlUI:v1.1.0'
+
+
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+
+    implementation 'androidx.appcompat:appcompat:1.5.1'
+    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+
+    implementation 'com.applovin:applovin-sdk:11.5.2'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.0-beta1'
+    implementation 'com.github.neopixl:PixlUI:v1.1.0'
+
+
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
+    implementation 'com.github.anastr:speedviewlib:1.6.0'
+
+    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+
+    implementation 'androidx.lifecycle:lifecycle-process:2.5.1'
+
+
+
+
+
+
 }

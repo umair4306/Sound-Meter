@@ -1,62 +1,466 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-19:12
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\459731560744495d36c7572f4eaf1462\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\229612c218d9fe79705dc19c7f400585\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\7330f6a21f82b95eb4f121b4f672e49f\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\034f511a629c0fda711794a09fef4382\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\d0008506bd5c132926240cdde3786700\transformed\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:2:1-91:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\ba173852cb684694474d52e3d7fa26d9\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\9715368e8ba3677908a4186913b0cede\transformed\jetified-PixlUI-v1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.anastr:speedviewlib:1.6.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\2e87fe8c8c66fe02f034f2a741dbb23a\transformed\jetified-speedviewlib-1.6.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\766772454042147bd916e2b2f2ed2a1f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\c768775b5dc4d88a87dae9419e2dd8a3\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4a9395b98a41774121f6ab6389bc64b3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\901252cdde2ea50d60210b860c011892\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\ab31e87eda470bd398b04a6c1f020d62\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\aa92256759ef0c53a213da8083e00652\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\f6bfb8387aa67fa73508f490ecd23a95\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b999317af53d7ddb55285c596ee56b1c\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\57ca3b77bddf28c6a9893ba37b6dd11f\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\baa90a95ea77c256f0661483bb4489eb\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\46e80d470db2b1b1912846da9c9a9db2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\fe0fd5ae30eba395a4c7b39f593407e5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b96256539dbd15fe05ef3f774d34b33b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1282e2a4b56306d4b655af35a574b455\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\c51b904150fd2875fe24ebca6a6abd7f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1b2c2bc523e43a8695e5871c17c75f28\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\0669cfa2680cb1a246f3cde1cbb2ad91\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\f7a3bfe395c1bb5d22925036631826ad\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b1ff8782cfcecfc397dad65b90e9c690\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\890fbcef9c869e9a85209cc5c9a96739\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4e9c4335ae9643d33813af8de5dcccc1\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\fa3659a04c6e45d556b5f8662112b28b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1fac657088262e01baed01fbff1f9e4c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4acf5e1ffd3dd0501ffb513566a1fad9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\bf204cc5d1ee021a0b779a40e33c278f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\502b310031e6b0050841c7128259ea17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\86cac07897472df51478ab51cbbaba04\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b72326ebc58ae513a4b2ca23b3b41f53\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\56a60aa11c00550ac2067dc311230fea\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\5c31521eb266c26ef211a1f53b56b07e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\66860c319137074465b1f3af9d4ca7e4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\9d769e6f8c1cf14afd24d8935e171f47\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
 	package
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:17:5-67
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:4:5-81
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:4:22-78
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:5:5-70
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:5:22-68
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:8:22-68
 application
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:6:5-18:19
-MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:9:9-41
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:10:5-63:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\459731560744495d36c7572f4eaf1462\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\459731560744495d36c7572f4eaf1462\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\229612c218d9fe79705dc19c7f400585\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\229612c218d9fe79705dc19c7f400585\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:24:5-89:19
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:24:5-89:19
+MERGED from [com.github.anastr:speedviewlib:1.6.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\2e87fe8c8c66fe02f034f2a741dbb23a\transformed\jetified-speedviewlib-1.6.0\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.anastr:speedviewlib:1.6.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\2e87fe8c8c66fe02f034f2a741dbb23a\transformed\jetified-speedviewlib-1.6.0\AndroidManifest.xml:9:5-10:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4acf5e1ffd3dd0501ffb513566a1fad9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4acf5e1ffd3dd0501ffb513566a1fad9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:10:9-35
-	android:allowBackup
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:14:9-42
+	tools:ignore
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:20:9-48
+	tools:targetApi
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:22:9-28
+	android:largeHeap
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:17:9-33
 	android:icon
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:8:9-38
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:15:9-42
+	android:allowBackup
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.bodekjan.soundmeter.MainActivity
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:12:9-17:20
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:19:9-40
+	android:dataExtractionRules
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:13:9-65
+	tools:replace
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:21:9-44
 	android:name
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:12:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:13:13-16:29
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:11:9-71
+activity#com.digitalappsacademy.soundmeter.AppInfo
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:24:13-69
+meta-data#android.app.lib_name
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:27:13-29:36
+	android:value
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:29:17-33
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:28:17-52
+activity#com.digitalappsacademy.soundmeter.OnboardingScreen
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:33:13-37
+	android:theme
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:32:13-78
+activity#com.digitalappsacademy.soundmeter.SplashScreen
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:39:9-52:20
+	android:exported
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:41:13-36
+	android:theme
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:40:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.digitalappsacademy.soundmeter.MainActivity
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:53:9-59:20
+	android:exported
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:55:13-37
+	android:theme
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:54:13-74
+meta-data#applovin.sdk.key
+ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:60:9-62:118
+	android:value
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:62:13-115
+	android:name
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml:61:13-44
 uses-sdk
-INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.0.0] C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\build\intermediates\exploded-aar\com.github.neopixl\PixlUI\v1.1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\459731560744495d36c7572f4eaf1462\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\459731560744495d36c7572f4eaf1462\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\229612c218d9fe79705dc19c7f400585\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\229612c218d9fe79705dc19c7f400585\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\7330f6a21f82b95eb4f121b4f672e49f\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\7330f6a21f82b95eb4f121b4f672e49f\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\034f511a629c0fda711794a09fef4382\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\034f511a629c0fda711794a09fef4382\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\d0008506bd5c132926240cdde3786700\transformed\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\d0008506bd5c132926240cdde3786700\transformed\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\ba173852cb684694474d52e3d7fa26d9\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\ba173852cb684694474d52e3d7fa26d9\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\9715368e8ba3677908a4186913b0cede\transformed\jetified-PixlUI-v1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.neopixl:PixlUI:v1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\9715368e8ba3677908a4186913b0cede\transformed\jetified-PixlUI-v1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.anastr:speedviewlib:1.6.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\2e87fe8c8c66fe02f034f2a741dbb23a\transformed\jetified-speedviewlib-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.anastr:speedviewlib:1.6.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\2e87fe8c8c66fe02f034f2a741dbb23a\transformed\jetified-speedviewlib-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\766772454042147bd916e2b2f2ed2a1f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\766772454042147bd916e2b2f2ed2a1f\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\c768775b5dc4d88a87dae9419e2dd8a3\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\c768775b5dc4d88a87dae9419e2dd8a3\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4a9395b98a41774121f6ab6389bc64b3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4a9395b98a41774121f6ab6389bc64b3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\901252cdde2ea50d60210b860c011892\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\901252cdde2ea50d60210b860c011892\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\ab31e87eda470bd398b04a6c1f020d62\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\ab31e87eda470bd398b04a6c1f020d62\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\aa92256759ef0c53a213da8083e00652\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\aa92256759ef0c53a213da8083e00652\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\f6bfb8387aa67fa73508f490ecd23a95\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\f6bfb8387aa67fa73508f490ecd23a95\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b999317af53d7ddb55285c596ee56b1c\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b999317af53d7ddb55285c596ee56b1c\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\57ca3b77bddf28c6a9893ba37b6dd11f\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\57ca3b77bddf28c6a9893ba37b6dd11f\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\baa90a95ea77c256f0661483bb4489eb\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\baa90a95ea77c256f0661483bb4489eb\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\46e80d470db2b1b1912846da9c9a9db2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\46e80d470db2b1b1912846da9c9a9db2\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\fe0fd5ae30eba395a4c7b39f593407e5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\fe0fd5ae30eba395a4c7b39f593407e5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b96256539dbd15fe05ef3f774d34b33b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b96256539dbd15fe05ef3f774d34b33b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1282e2a4b56306d4b655af35a574b455\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1282e2a4b56306d4b655af35a574b455\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\c51b904150fd2875fe24ebca6a6abd7f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\c51b904150fd2875fe24ebca6a6abd7f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1b2c2bc523e43a8695e5871c17c75f28\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1b2c2bc523e43a8695e5871c17c75f28\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\0669cfa2680cb1a246f3cde1cbb2ad91\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\0669cfa2680cb1a246f3cde1cbb2ad91\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\f7a3bfe395c1bb5d22925036631826ad\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\f7a3bfe395c1bb5d22925036631826ad\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b1ff8782cfcecfc397dad65b90e9c690\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b1ff8782cfcecfc397dad65b90e9c690\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\890fbcef9c869e9a85209cc5c9a96739\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\890fbcef9c869e9a85209cc5c9a96739\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4e9c4335ae9643d33813af8de5dcccc1\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4e9c4335ae9643d33813af8de5dcccc1\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\fa3659a04c6e45d556b5f8662112b28b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\fa3659a04c6e45d556b5f8662112b28b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1fac657088262e01baed01fbff1f9e4c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1fac657088262e01baed01fbff1f9e4c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4acf5e1ffd3dd0501ffb513566a1fad9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\4acf5e1ffd3dd0501ffb513566a1fad9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\bf204cc5d1ee021a0b779a40e33c278f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\bf204cc5d1ee021a0b779a40e33c278f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\502b310031e6b0050841c7128259ea17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\502b310031e6b0050841c7128259ea17\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\86cac07897472df51478ab51cbbaba04\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\86cac07897472df51478ab51cbbaba04\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b72326ebc58ae513a4b2ca23b3b41f53\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\b72326ebc58ae513a4b2ca23b3b41f53\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\56a60aa11c00550ac2067dc311230fea\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\56a60aa11c00550ac2067dc311230fea\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\5c31521eb266c26ef211a1f53b56b07e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\5c31521eb266c26ef211a1f53b56b07e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\66860c319137074465b1f3af9d4ca7e4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\66860c319137074465b1f3af9d4ca7e4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\9d769e6f8c1cf14afd24d8935e171f47\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\9d769e6f8c1cf14afd24d8935e171f47\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HviewTech\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:11:5-15:15
+intent#action:name:com.applovin.am.intent.action.APPHUB_SERVICE
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:12:9-14:18
+action#com.applovin.am.intent.action.APPHUB_SERVICE
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:13:13-83
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:13:21-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:18:22-76
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.1.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\dcf22cf7e926e6387e8570ec8dcd03b5\transformed\jetified-play-services-ads-identifier-17.1.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:22:22-73
+provider#com.applovin.sdk.AppLovinInitProvider
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:25:9-29:39
+	android:authorities
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:26:13-65
+activity#com.applovin.adview.AppLovinFullscreenActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:31:9-37:50
+	android:screenOrientation
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:37:13-47
+	android:launchMode
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:36:13-43
+	android:hardwareAccelerated
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:35:13-47
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:34:13-37
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:33:13-139
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:32:13-74
+activity#com.applovin.sdk.AppLovinWebViewActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:38:9-40:142
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:40:13-139
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:39:13-68
+activity#com.applovin.mediation.hybridAds.MaxHybridMRecAdActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:43:9-45:142
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:45:13-139
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:44:13-84
+activity#com.applovin.mediation.hybridAds.MaxHybridNativeAdActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:46:9-48:142
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:48:13-139
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:47:13-86
+activity#com.applovin.mediation.MaxDebuggerActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:51:9-54:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:53:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:54:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:52:13-70
+activity#com.applovin.mediation.MaxDebuggerDetailActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:55:9-58:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:57:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:58:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:56:13-76
+activity#com.applovin.mediation.MaxDebuggerMultiAdActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:59:9-62:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:61:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:62:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:60:13-77
+activity#com.applovin.mediation.MaxDebuggerAdUnitsListActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:63:9-66:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:65:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:66:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:64:13-81
+activity#com.applovin.mediation.MaxDebuggerAdUnitDetailActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:67:9-70:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:69:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:70:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:68:13-82
+activity#com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:71:9-74:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:73:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:74:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:72:13-85
+activity#com.applovin.mediation.MaxDebuggerTestModeNetworkActivity
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:75:9-78:87
+	android:configChanges
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:77:13-139
+	android:theme
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:78:13-84
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:76:13-85
+service#com.applovin.impl.sdk.utils.AppKilledService
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:81:9-84:44
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:83:13-37
+	android:stopWithTask
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:84:13-41
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:82:13-72
+service#com.applovin.impl.adview.activity.FullscreenAdService
+ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:85:9-88:44
+	android:exported
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:87:13-37
+	android:stopWithTask
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:88:13-41
+	android:name
+		ADDED from [com.applovin:applovin-sdk:11.5.2] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\8a414cf4e04e88c342372aa595f0e09b\transformed\jetified-applovin-sdk-11.5.2\AndroidManifest.xml:86:13-81
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\e187364c1939241e3cc323ceb5af3719\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\edfd1b10bda39ac8d553f478e9fb2155\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:32:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\wwwum\AndroidStudioProjects\Sound-Meter\caches\transforms-3\31a6c5dfe4610270c4c3dd959c8702fe\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
