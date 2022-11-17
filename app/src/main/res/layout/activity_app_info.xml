@@ -52,7 +52,7 @@
         android:layout_below="@id/bannerAd"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:src="@drawable/information" />
+        android:src="@drawable/app_icon" />
 
 
     <TextView

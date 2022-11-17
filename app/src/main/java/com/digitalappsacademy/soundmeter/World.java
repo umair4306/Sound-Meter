@@ -1,8 +1,6 @@
 package com.digitalappsacademy.soundmeter;
 
-/**
- * Created by bodekjan on 2016/8/8.
- */
+
 public class World {
     public static float dbCount = 40;
     public static float minDB =100;

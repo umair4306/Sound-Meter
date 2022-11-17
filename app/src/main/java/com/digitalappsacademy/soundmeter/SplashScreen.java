@@ -15,8 +15,10 @@ public class SplashScreen extends AppCompatActivity {
 
     private SpinKitView progressBar;
     private TextView adLoadingTv;
+    public static String PACKAGE_NAME;
 
     Handler handler;
+
 
 
     @Override
@@ -24,7 +26,7 @@ public class SplashScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
 
-
+        PACKAGE_NAME = getApplication().getPackageName();
         progressBar = findViewById(R.id.spin_kit);
         adLoadingTv = findViewById(R.id.ad_loading_tv);
 

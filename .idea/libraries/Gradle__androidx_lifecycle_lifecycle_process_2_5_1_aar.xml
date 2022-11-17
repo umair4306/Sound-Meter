@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-process:2.5.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caches/transforms-3/edfd1b10bda39ac8d553f478e9fb2155/transformed/jetified-lifecycle-process-2.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/edfd1b10bda39ac8d553f478e9fb2155/transformed/jetified-lifecycle-process-2.5.1/res" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-3/edfd1b10bda39ac8d553f478e9fb2155/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.5.1/8fccf25901f65172f1380c9abc6cbbabe809fe6a/lifecycle-process-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -77,7 +77,7 @@ public class OnboardingScreen extends AppCompatActivity {
 
 
     private void createMrecAd() {
-        MRECAdview = new MaxAdView(getResources().getString(R.string.mrec), MaxAdFormat.MREC, this);
+        MRECAdview = new MaxAdView(Constant.MREC_ADD_KEY, MaxAdFormat.MREC, this);
         MRECAdview.setListener(new MaxAdViewAdListener() {
             @Override
             public void onAdExpanded(MaxAd ad) {

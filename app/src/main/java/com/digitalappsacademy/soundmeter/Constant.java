@@ -3,9 +3,8 @@ package com.digitalappsacademy.soundmeter;
 public class Constant {
     public static String APP_OPEN_KEY="2a1eddedcf2c86e4";
     public static String MREC_ADD_KEY="3b220f9810c33311";
-    public static String Package_Name = "com.digitalappsacademy.soundmeter.noisemeter.dbmeter.noisedetector.splmeter";
     public static String More_Apps_Link = "https://play.google.com/store/apps/dev?id=8363732241923472787";
-    public static String Rate_us_Link = "https://play.google.com/store/apps/details?id=com.digitalappsacademy.soundmeter.noisemeter.dbmeter.noisedetector.splmeter";
+    public static String Rate_us_Link = "https://play.google.com/store/apps/details?id=";
     public static String Policy_Link = "https://digitalappsacademz.blogspot.com/p/digital-apps-academy-privacy-policy.html";
     public static String License_Key = "LicenseKeyForIn-App";
     public static String Admob_App_ID = "Admob(AppID)";

@@ -5,10 +5,12 @@ android {
 
     defaultConfig {
         applicationId "com.digitalappsacademy.soundmeter.noisemeter.dbmeter.noisedetector.splmeter"
-        minSdkVersion 21
+        minSdkVersion 19
         targetSdkVersion 33
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
+
     }
     buildTypes {
 

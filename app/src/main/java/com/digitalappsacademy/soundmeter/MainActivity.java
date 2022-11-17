@@ -371,7 +371,7 @@ public class MainActivity extends Activity {
 
 
                     case R.id.Rate_us:
-                        Uri uri = Uri.parse(Constant.Rate_us_Link); // missing 'http://' will cause crashed
+                        Uri uri = Uri.parse(Constant.Rate_us_Link + SplashScreen.PACKAGE_NAME); // missing 'http://' will cause crashed
                         intent = new Intent(Intent.ACTION_VIEW, uri);
                         startActivity(intent);
                         break;
@@ -405,7 +405,7 @@ public class MainActivity extends Activity {
     }
 
     private void createMrecAd() {
-        MRECAdview = new MaxAdView(getResources().getString(R.string.mrec), MaxAdFormat.MREC, this);
+        MRECAdview = new MaxAdView(Constant.MREC_ADD_KEY, MaxAdFormat.MREC, this);
         MRECAdview.setListener(new MaxAdViewAdListener() {
             @Override
             public void onAdExpanded(MaxAd ad) {
